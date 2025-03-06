@@ -10,8 +10,8 @@ export const environment = {  production:false,
         // apiBaseUrl:'http://localhost:8080',
         // apiBaseUrlAI:'http://localhost:8000'
 
-        apiBaseUrl:'http://localhost:8080',
-        apiBaseUrlAI:'http://localhost:8000'
+        apiBaseUrl:'/api/',
+        apiBaseUrlAI:'/api/ai/'
         
         // http://localhost:8000
         // https://d3exatm2adm2g.cloudfront.net
